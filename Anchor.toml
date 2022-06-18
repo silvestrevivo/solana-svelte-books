@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-solana_svelte_books = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_svelte_books = "FB5U8m8DBbYBnF6oqzgM7tc2YKpgNicwZvWfZSdKoV7d"
 
 [registry]
 url = "https://anchor.projectserum.com"
